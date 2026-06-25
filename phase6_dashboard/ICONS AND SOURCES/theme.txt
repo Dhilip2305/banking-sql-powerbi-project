@@ -1,0 +1,27 @@
+{
+  "name": "Midnight Finance",
+  "dataColors": [
+    "#1B998B",
+    "#F2A541",
+    "#E4572E",
+    "#0B1F3A",
+    "#7FDBCA",
+    "#FFB84D",
+    "#FF6B4A",
+    "#1A2847",
+    "#26A69A",
+    "#FFA726"
+  ],
+  "background": {
+    "color": "#F4F6F9"
+  },
+  "foreground": {
+    "color": "#0B1F3A"
+  },
+  "tableAccent": {
+    "color": "#1B998B"
+  },
+  "fonts": {
+    "family": "Segoe UI"
+  }
+}
